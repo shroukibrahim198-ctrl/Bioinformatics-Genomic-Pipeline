@@ -1,0 +1,19 @@
+==========================================
+   BIOINFORMATICS DATA CLEANING REPORT    
+==========================================
+
+--- Health Sample ---
+Total Reads: 3,587,744
+Passed Reads: 3,587,584
+Filtered Reads: 160
+Quality Threshold: Q20 (99% accuracy)
+--------------------
+
+--- Cancer Sample ---
+Total Reads: 12,879,026
+Passed Reads: 12,823,749
+Filtered Reads: 55,277
+Quality Threshold: Q20 (99% accuracy)
+--------------------
+
+Summary: Data is cleaned and ready for Alignment/Mapping stage.

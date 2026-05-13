@@ -1,0 +1,18 @@
+BIOINFORMATICS PIPELINE FINAL REPORT
+====================================
+=== Health Sample ===
+Total Reads: 3,587,744
+Passed Reads: 3,587,584
+Avg Read Length: 50.00 bp
+GC Content: 50.76%
+Q20 Quality: 98.39%
+Q30 Quality: 91.93%
+------------------------------
+=== Cancer Sample ===
+Total Reads: 12,879,026
+Passed Reads: 12,823,749
+Avg Read Length: 50.00 bp
+GC Content: 50.79%
+Q20 Quality: 98.13%
+Q30 Quality: 96.35%
+------------------------------

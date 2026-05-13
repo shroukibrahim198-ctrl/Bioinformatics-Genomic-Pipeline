@@ -31,8 +31,7 @@ Based on the processed data, the samples showed the following charactThroughput:
 
 ### Pipeline Execution Preview:
 *Processing the genomic data:*
-![Pipeline Processing](pipeline_screenshot.jpg)
+![Pipeline Processing](results/plots/pipeline_screenshot.jpg)
 
 *Execution completed successfully:*
-![Pipeline Finished](finished_screenshot.jpg)
-
+![Pipeline Finished](results/plots/finished_screenshot.jpg)

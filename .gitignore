@@ -1,0 +1,14 @@
+# Bioinformatics Data (Huge files)
+data/
+results/cleaned_data/
+*.fastq
+*.fastq.gz
+
+# Python Environment & Cache
+bio_env/
+pycache/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
